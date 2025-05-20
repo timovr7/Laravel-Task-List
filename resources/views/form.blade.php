@@ -36,7 +36,7 @@
                 'shadow-sm appearance-none border-red-500 w-full py-2 px-3 text-slate-700 leading-tight focus:outline-none' => $errors->has(
                     'title'),
             ])>
->{{ $task->description ?? old('description') }}</textarea>
+{{ $task->description ?? old('description') }}</textarea>
             @error('description')
                 <p class="text-red-500 text-sm">{{ $message }}</p>
             @enderror
@@ -49,7 +49,7 @@
                 'shadow-sm appearance-none border-red-500 w-full py-2 px-3 text-slate-700 leading-tight focus:outline-none' => $errors->has(
                     'title'),
             ])>
->{{ $task->long_description ?? old('long_description') }}</textarea>
+{{ $task->long_description ?? old('long_description') }}</textarea>
             @error('long_description')
                 <p class="text-red-500 text-sm">{{ $message }}</p>
             @enderror
