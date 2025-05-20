@@ -5,10 +5,12 @@ A simple Laravel 12 app built while taking the "Master Laravel 12 & PHP: From Be
 [Udemy course](https://www.udemy.com/course/master-laravel-12-php-from-beginner-to-advanced/)
 
 
+
 ## Why this project?
 
 This application was developed to refresh my PHP skills and dive into the Laravel PHP framework, building on prior experience with Ruby on Rails. 
 I’m currently expanding my expertise across various backend technologies, aiming to become proficient in multiple frameworks and grow as a developer. 
+
 
 
 ## 💻 Tech Stack
@@ -21,6 +23,7 @@ I’m currently expanding my expertise across various backend technologies, aimi
 - Tailwind CSS
 - Alpine.js
 - Composer & Artisan
+
 
 
 ## 📚 Topics Covered
@@ -39,6 +42,8 @@ I’m currently expanding my expertise across various backend technologies, aimi
 - Pagination
 - Styling with Tailwind CSS
 - Enhancing interactivity with Alpine.js
+
+
 
 ## 🧑‍💻 Author
 
