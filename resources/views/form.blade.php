@@ -64,7 +64,8 @@
                     Add task
                 @endisset
             </button>
-            <a href="{{ route('tasks.index')}}" class="rounded-md px-2 py-1 text-center font-medium shadow-sm ring-1 ring-slate-700/20 hover:bg-slate-20 text-slate-700">Cancel</a>
+            <a href="{{ route('tasks.index') }}"
+                class="rounded-md px-2 py-1 text-center font-medium shadow-sm ring-1 ring-slate-700/20 hover:bg-slate-20 text-slate-700">Cancel</a>
         </div>
 
     </form>
