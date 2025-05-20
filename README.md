@@ -2,7 +2,7 @@
 
 A simple Laravel 12 app built while taking the "Master Laravel 12 & PHP: From Beginner to Advanced" Udemy course.
 
-[Udemy course](https://www.udemy.com/course/master-laravel-12-php-from-beginner-to-advanced/)
+[Udemy course](https://www.udemy.com/course/laravel-beginner-fundamentals/)
 
 
 
