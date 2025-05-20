@@ -47,5 +47,5 @@ I’m currently expanding my expertise across various backend technologies, aimi
 
 ## 🧑‍💻 Author
 
-**Timo Vromen** (@timovr7)
+**Timo Vromen** (@timovr7)  
 Developer with a background in Ruby on Rails, now expanding into Laravel and other full-stack technologies.
